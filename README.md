@@ -13,16 +13,10 @@ O projeto está organizado da seguinte forma:
 
 ```
 get_next_line/
-├── includes/
-│   └── get_next_line.h
-├── srcs/
+|   |__ get_next_line.h
 │   ├── get_next_line.c
 │   └── get_next_line_utils.c
-├── libft/
-│   ├── (contém os arquivos da sua biblioteca Libft)
-├── tests/
-│   └── (contém arquivos para testar o GNL)
-├── Makefile
+
 └── README.md
 ```
 
